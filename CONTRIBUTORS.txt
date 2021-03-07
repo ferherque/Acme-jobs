@@ -11,4 +11,5 @@
 - Rafael Corchuelo (corchu@us.es)
 - Jesús Barba Sigüenza (jesbarsig@alumn.us.es)
 - Manuel Moguer Villalba (manmogvil@alum.us.es)
+- Daniel Suárez (dansuaper@alum.us.es)
 - Fernando Hernández Quesada (ferherque@alum.us.es)
