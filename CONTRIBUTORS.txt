@@ -9,4 +9,6 @@
 # they accept any liabilities with respect to them.
 
 - Rafael Corchuelo (corchu@us.es)
-- Manuel Moguer Villalba  (manmogvil@alum.us.es)
+- Jesús Barba Sigüenza (jesbarsig@alumn.us.es)
+- Manuel Moguer Villalba (manmogvil@alum.us.es)
+- Fernando Hernández Quesada (ferherque@alum.us.es)
